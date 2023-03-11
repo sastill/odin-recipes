@@ -1,0 +1,34 @@
+h1 {
+  background-color: greenyellow;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-size: 32px;
+}
+h2,
+h3 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: greenyellow;
+  font-weight: normal;
+  background-color: black;
+}
+h2 {
+  font-size: 24px;
+}
+body p {
+  background-color: #dfefdf;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  font-style: italic;
+}
+body li {
+  font-size: 16px;
+}
+body li p {
+  background-color: #fff;
+  font-style: normal;
+}
+ul li a {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
